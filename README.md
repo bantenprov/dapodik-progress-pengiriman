@@ -126,7 +126,7 @@ children: [
 },
 //== ...        
       {
-        name: 'Dapodik Data Pegawai',
+        name: 'Dapodik Progress Pengiriman',
         link: '/dashboard/dd-progress-pengiriman',
         icon: 'fa fa-angle-double-right'
       },
