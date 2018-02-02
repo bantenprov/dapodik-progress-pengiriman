@@ -26,7 +26,7 @@
             "src/helpers/helpers.php"
         ],
         "psr-4": {
-            "Bantenprov\\DProgressPengiriman\\": "src"
+            "Bantenprov\\DDProgressPengiriman\\": "src"
         }
     },
     "minimum-stability": "dev"
