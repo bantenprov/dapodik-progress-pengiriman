@@ -2,6 +2,11 @@
 Statistik rekapitulasi dapodik progress progress pengiriman tingkat provinsi
 
 
+[![Join the chat at https://gitter.im/dapodik-data-peserta-didik/Lobby](https://badges.gitter.im/dapodik-data-peserta-didik/Lobby.svg)](https://gitter.im/dapodik-data-peserta-didik/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/dapodik-data-peserta-didik/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/dapodik-data-peserta-didik/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/bantenprov/dapodik-data-peserta-didik/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/dapodik-data-peserta-didik/build-status/master)
+
+
 ## install via composer
 
 - Development snapshot
